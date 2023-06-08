@@ -28,7 +28,7 @@ const Example = ({ children }) => {
 }
 ```
 
-![example](https://github.com/MatthiasKrijgsman/react-auto-animate-height/assets/9784025/f9196964-c397-4e82-bd21-e48260b2bb83)
+![example-3](https://github.com/MatthiasKrijgsman/react-auto-animate-height/assets/9784025/3ea9e71f-e248-49a5-8d91-6a57009387df)
 
 ## License
 
