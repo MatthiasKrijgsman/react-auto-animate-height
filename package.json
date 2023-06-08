@@ -1,6 +1,6 @@
 {
   "name": "react-auto-animate-height",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically animate height based on its children",
   "author": "MatthiasKrijgsman",
   "license": "MIT",
